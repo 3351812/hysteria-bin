@@ -47,3 +47,4 @@ git push -u origin master
 下载链接如下：
 
 https://github.com/3351812/hysteria-bin/raw/main/hysteria-linux-amd64
+wget https://github.com/xin3351812/hysteria-bin/raw/main/hysteria-linux-amd64
